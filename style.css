@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+}
+
+.Kasya{
+    text-align: center;
+    font-size: 30px;
+    color:palevioletred;
+}
+
+.Talya{
+    color:palevioletred;
+}
+
+.Misa{
+    color:#ec7dcd;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+  }
